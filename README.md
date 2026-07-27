@@ -9,7 +9,7 @@
 | zhangxiao-perspective | 张枭视角 |
 | linmotian-perspective | 林默天视角 |
 | zengkun-perspective | 曾坤视角 |
-| zhengmingjiang-perspective | 郑明江视角 |
+| zhengmingjiang-perspective | 郑明姜视角 |
 
 ## 使用方式
 
