@@ -1,12 +1,36 @@
 # lgqm_roles
 
-《临高启明》角色视角 Skills。每个目录是一套可安装的角色视角 skill，用于在写作、分析、设定复核和角色口吻模拟时快速切换到对应人物的思维框架。
+《临高启明》角色视角 Skills。每个 `*-perspective/` 目录是一套可安装的角色视角 skill，用于写作、分析、设定复核和角色口吻模拟。
 
-> 本Skill由 [女娲 · Skill造人术](https://github.com/alchaincyf/nuwa-skill) 生成
-> 创建者：[花叔](https://x.com/AlchainHust)
+> 本 Skill 由 [女娲 · Skill造人术](https://github.com/alchaincyf/nuwa-skill) 生成  
+> 创建者：[花叔](https://x.com/AlchainHust)  
 > 角色版权：临高启明同人作者 | 蒸馏用途：角色研究/思维训练
 
-## 目录结构
+## 本次更新
+
+- 将 36 个元老角色 skill 统一整理到 `归档/`，每个目录旁提供同名 `.zip`。
+- 按 `maqianzhu-perspective` 标准返工：补齐 `SKILL.md`、`scripts/`、`references/research/01-06` 和 `references/sources/SOURCE_INDEX.md`。
+- 重新打包 36 个元老 zip，压包时排除 `.DS_Store`。
+- 新增第一批归化民/土著角色目录：`batches/20260729-1851-natives-batch-01/`，共 15 人。
+- 已完成本地检查：元老目录 36/36 通过，元老 zip 36/36 通过；第一批归化民/土著目录 15/15 通过，zip 15/15 通过。
+
+## 目录组织
+
+```text
+归档/
+├── [person]-perspective/
+├── [person]-perspective.zip
+└── ...
+
+batches/
+└── YYYYMMDD-HHMM-[topic]-batch-NN/
+    ├── [person]-perspective/
+    └── [person]-perspective.zip
+```
+
+后续新增角色按批次进入 `batches/`，每批最多 15 人；确认稳定后再移动到 `归档/` 或单独发布。
+
+## Nuwa 标准结构
 
 AI 有时不能稳定遵循 `nuwa-skill` 的标准格式，蒸馏完成后建议人工复核文件结构。标准结构如下：
 
@@ -107,11 +131,11 @@ lgqm_roles/
 
 ### Claude Code
 
-将需要的 `*-perspective/` 目录复制到项目的 `.claude/skills/` 下。
+将需要的 `归档/*-perspective/` 或 `batches/*/*-perspective/` 目录复制到项目的 `.claude/skills/` 下。
 
 ### Codex
 
-将需要的 `*-perspective/` 目录复制到 `$CODEX_HOME/skills/` 下。安装后直接点名角色即可触发，例如：
+将需要的 `归档/*-perspective/` 或 `batches/*/*-perspective/` 目录复制到 `$CODEX_HOME/skills/` 下。安装后直接点名角色即可触发，例如：
 
 - "用吴南海视角看粮食安全"
 - "用文同视角分析雷州糖业"
@@ -123,13 +147,16 @@ lgqm_roles/
 
 ## 质量检查
 
-每个标准目录内可放置 `scripts/quality_check.py`，用于检查：
+每个标准目录应至少包含：
 
-- 心智模型数量
-- 模型局限性
-- 表达 DNA
-- 诚实边界
-- 内在张力
-- 来源说明
+- `SKILL.md`
+- `scripts/`
+- `references/research/01-writings.md`
+- `references/research/02-conversations.md`
+- `references/research/03-expression-dna.md`
+- `references/research/04-external-views.md`
+- `references/research/05-decisions.md`
+- `references/research/06-timeline.md`
+- `references/sources/SOURCE_INDEX.md`
 
-合并前建议至少检查 `SKILL.md` 和 `references/research/` 是否齐全；角色材料较少时，应在 `诚实边界` 中说明材料限制，不要硬编。
+角色材料较少时，应在 `诚实边界` 中说明材料限制，不要硬编。
