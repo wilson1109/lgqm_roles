@@ -1,25 +1,59 @@
 # lgqm_roles
 
-临高启明角色视角 Skills。
+《临高启明》角色视角 Skills。每个目录是一套可安装的角色视角 skill，用于在写作、分析、设定复核和角色口吻模拟时快速切换到对应人物的思维框架。
+
 > 本Skill由 [女娲 · Skill造人术](https://github.com/alchaincyf/nuwa-skill) 生成
 > 创建者：[花叔](https://x.com/AlchainHust)
 > 角色版权：临高启明同人作者 | 蒸馏用途：角色研究/思维训练
 
-【重要提醒】AI有时候并不能很好地遵循nuwa-skill的标准格式输出skill文档，蒸馏完成后需要人工复核输出skill的文件结构，标准结构如下：
+## 目录结构
+
+AI 有时不能稳定遵循 `nuwa-skill` 的标准格式，蒸馏完成后建议人工复核文件结构。标准结构如下：
+
+```text
 .claude/skills/[person-name]-perspective/
 ├── SKILL.md
 ├── scripts/
-├── references/│
-   ├── research/│
-   │   ├── 01-writings.md│
-   │   ├── 02-conversations.md│
-   │   ├── 03-expression-dna.md│
-   │   ├── 04-external-views.md│
-   │   ├── 05-decisions.md│
-   │   └── 06-timeline.md│
-   └── sources/
+└── references/
+    ├── research/
+    │   ├── 01-writings.md
+    │   ├── 02-conversations.md
+    │   ├── 03-expression-dna.md
+    │   ├── 04-external-views.md
+    │   ├── 05-decisions.md
+    │   └── 06-timeline.md
+    └── sources/
+```
 
-## Skills 列表
+## 本 PR 新增 Skills
+
+本批次新增 21 个角色视角，覆盖农业、商业、军事、情报、海军、组织人事、警务、传媒、女性政治和地方经略等线索。
+
+| Skill | 角色 | 主要适用场景 |
+|-------|------|--------------|
+| `wunanhai-perspective` | 吴南海 | 农业口、粮食安全、农垦、种本、饲料、产权、技术转让和农业账本。 |
+| `chensigen-perspective` | 陈思根 | 特侦训练、救援干涉、军粮营养、食品保存、全民健身和身体管理。 |
+| `xueziliang-perspective` | 薛子良 | 侦查反游击、枪械来源、治安战、特侦训练、侦查总局和公共安全。 |
+| `luwenyuan-perspective` | 鹿文渊 | 山东基地、工程据点、难民收容、边地补给、军政边界和前线秩序。 |
+| `zhaoyingong-perspective` | 赵引弓 | 江南商业统战、招商局、凤凰山庄、丝业控制、士绅渠道和慈善包装。 |
+| `zhumingxia-perspective` | 朱鸣夏 | 步兵训练、政工、难民队列、两广攻略、梧州作战和治安战。 |
+| `mingqiu-perspective` | 明秋 | 伏波军海军部长、大洋舰队顾问、第一舰队、海军建设和舰队指挥。 |
+| `minglang-perspective` | 明朗 | 元老院办公厅组织处、干部任用、编制流程、机构规则和组织技术。 |
+| `limei-perspective` | 李梅 | 经济产业省商业部、渠道定价、百货流通、商业谈判和供应体系。 |
+| `mumin-perspective` | 慕敏 | 黎区事务、警务体系、东门市派出所、警察总务、广州警察局和基层治安。 |
+| `chengyongxin-perspective` | 程咏昕 | 圣母元老、女仆案、女性权利政治、生活秘书争议和道德动员。 |
+| `duwen-perspective` | 杜雯 | 杜女王、妇联、女权、劳工神圣、思想宣传、群众发动和革命话语。 |
+| `panpan-perspective` | 潘潘 | 临高时报、传媒记者、丁丁夫人、新闻叙事、舆论包装和报刊工作。 |
+| `qianduoduo-perspective` | 钱朵朵 | 小仓号、元老船长、女子海事、航海运输、船上秩序和海上行动。 |
+| `salinna-perspective` | 萨琳娜 | ATF女特工、北美背景、情报行动、枪械调查、外来者身份和安全判断。 |
+| `zhangyunmi-perspective` | 张允幂 | 广州综合办公室、秘书系统、干部协调、会议执行和行政支撑。 |
+| `wentong-perspective` | 文同 | 华南糖厂、雷州糖业、制糖工艺、收购信誉、海义堂商业战和工艺标准化。 |
+| `changshide-perspective` | 常师德 | 雷州糖业民政、共同基金、基层组织、民兵、徐闻到越南米糖航线和兑付危机。 |
+| `chentianxiong-perspective` | 谌天雄 | 雷州情报、唐僧计划、糖厂机械调试、海义堂反制、林庄收买和群众分化。 |
+| `beiwei-perspective` | 北炜 | 特侦队、雷州参谋旅行、糖厂防务、邹和尚庙行动、战术纪律和安全评估。 |
+| `xuyingjie-perspective` | 徐营捷 | 化工部、雷汞、硝化甘油、苦味酸、特战装备、燃烧瓶、毒气和火炸药安全。 |
+
+## 已有基础 Skills
 
 | Skill | 角色 | 说明 |
 |-------|------|------|
@@ -60,4 +94,29 @@
 
 ## 使用方式
 
-将 skill 目录复制到你的项目 `.claude/skills/` 下即可。
+### Claude Code
+
+将需要的 `*-perspective/` 目录复制到项目的 `.claude/skills/` 下。
+
+### Codex
+
+将需要的 `*-perspective/` 目录复制到 `$CODEX_HOME/skills/` 下。安装后直接点名角色即可触发，例如：
+
+- “用吴南海视角看粮食安全”
+- “用文同视角分析雷州糖业”
+- “用谌天雄视角拆海义堂反制”
+- “用北炜视角做行动风险评估”
+- “用徐营捷视角评估火工品安全”
+
+## 质量检查
+
+每个标准目录内可放置 `scripts/quality_check.py`，用于检查：
+
+- 心智模型数量
+- 模型局限性
+- 表达 DNA
+- 诚实边界
+- 内在张力
+- 来源说明
+
+合并前建议至少检查 `SKILL.md` 和 `references/research/` 是否齐全；角色材料较少时，应在 `诚实边界` 中说明材料限制，不要硬编。
