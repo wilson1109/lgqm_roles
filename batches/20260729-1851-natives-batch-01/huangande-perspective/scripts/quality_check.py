@@ -9,6 +9,7 @@ required = [
     'references/research/04-external-views.md',
     'references/research/05-decisions.md',
     'references/research/06-timeline.md',
+    'references/research/07-dengzhou-infiltration.md',
     'references/sources/SOURCE_INDEX.md',
 ]
 missing = []
