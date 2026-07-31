@@ -1,8 +1,8 @@
 # 20260730-1643 historical batch 01
 
-状态：进行中；本批专门处理《临高启明》中真实存在的明末历史人物。当前主名单 10 人，不追求凑满 15 人；后续逐人蒸馏为 `*-perspective/` 目录；同名 zip 仅作本地打包交付物，不纳入 GitHub。
+状态：进行中；本批专门处理《临高启明》中真实存在的明末历史人物。当前主名单 11 人，不追求凑满 15 人；后续逐人蒸馏为 `*-perspective/` 目录；同名 zip 仅作本地打包交付物，不纳入 GitHub。
 
-已完成：`sunyuanhua-perspective`、`wangyehao-perspective`、`wentiren-perspective`、`chenzizhuang-perspective`、`xuguangqi-perspective`、`huangtaiji-perspective`、`lizicheng-perspective`、`yangsichang-perspective`。
+已完成：`sunyuanhua-perspective`、`wangyehao-perspective`、`liudalin-perspective`、`wentiren-perspective`、`chenzizhuang-perspective`、`xuguangqi-perspective`、`huangtaiji-perspective`、`lizicheng-perspective`、`yangsichang-perspective`。
 
 ## 选人规则
 
@@ -19,13 +19,14 @@
 | 1 | `sunyuanhua-perspective` | 孙元化 | 2286 | 已完成。登莱、西法火器、髡器/髡术认知接口。 |
 | 2 | `wangyehao-perspective` | 王业浩（石翁） | 2227 | 已完成。兵部侍郎、石翁集团首脑、周乐之/天书/反髡谋划线。 |
 | 3 | `xiongwencan-perspective` | 熊文灿 | 1295 | 两广总督、剿抚夹缝和广东失守责任线。 |
-| 4 | `wentiren-perspective` | 温体仁 | 469 | 已完成。崇祯朝阁臣、宫廷政治和剿抚话术接口。 |
-| 5 | `chenzizhuang-perspective` | 陈子壮 | 465 | 已完成。广东士人官僚、地方危局和朝廷奏议线。 |
-| 6 | `xuguangqi-perspective` | 徐光启 | 381 | 已完成。西学、火器、士大夫技术派和李洛由委托线。 |
-| 7 | `huangtaiji-perspective` | 皇太极 | 325 | 已完成。后金/清方最高决策者，辽东外压线。 |
-| 8 | `yangsichang-perspective` | 杨嗣昌 | 116 | 已完成。乾清宫召对、攘外安内、十面张网、剿饷/粤饷、熊文灿和孙元化判断线。 |
-| 9 | `lizicheng-perspective` | 李自成 | 95 | 已完成。低证据；流寇动员、闯王闲子、内乱压力和明末崩溃背景。 |
-| 10 | `zhengchenggong-perspective` | 郑成功 | 84 | 郑氏后继、海上政权想象和东南长期伏笔。 |
+| 4 | `liudalin-perspective` | 刘大霖（孟良） | 528 | 已完成并按崇祯范本重修。临高唯一进士、茉莉轩山长、咨议局首席委员，旧士绅转向澳宋的生民视角。 |
+| 5 | `wentiren-perspective` | 温体仁 | 469 | 已完成。崇祯朝阁臣、宫廷政治和剿抚话术接口。 |
+| 6 | `chenzizhuang-perspective` | 陈子壮 | 465 | 已完成。广东士人官僚、地方危局和朝廷奏议线。 |
+| 7 | `xuguangqi-perspective` | 徐光启 | 381 | 已完成。西学、火器、士大夫技术派和李洛由委托线。 |
+| 8 | `huangtaiji-perspective` | 皇太极 | 325 | 已完成。后金/清方最高决策者，辽东外压线。 |
+| 9 | `yangsichang-perspective` | 杨嗣昌 | 116 | 已完成。乾清宫召对、攘外安内、十面张网、剿饷/粤饷、熊文灿和孙元化判断线。 |
+| 10 | `lizicheng-perspective` | 李自成 | 95 | 已完成。低证据；流寇动员、闯王闲子、内乱压力和明末崩溃背景。 |
+| 11 | `zhengchenggong-perspective` | 郑成功 | 84 | 郑氏后继、海上政权想象和东南长期伏笔。 |
 
 ## 已有参照
 

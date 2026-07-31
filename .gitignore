@@ -1,3 +1,5 @@
 .DS_Store
 *.zip
 batches/20260729-1851-natives-batch-01_draft_backup/
+__pycache__/
+.omc/
