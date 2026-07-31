@@ -8,6 +8,7 @@
 | 第二卷 新世界.md:2021-2059 | /Users/gao/Library/Mobile Documents/com~apple~CloudDocs/旅顺口写作计划/原著/md/第二卷 新世界.md | 从海贼修路推断攻城器械，建议袭扰筑路。 | 书生兵学和风险判断。 |
 | 第二卷 新世界.md:2812-3595 | /Users/gao/Library/Mobile Documents/com~apple~CloudDocs/旅顺口写作计划/原著/md/第二卷 新世界.md | 夜袭/反攻计划失败，被讥“秀才谈兵”。 | 军事短板与旧权威受挫。 |
 | 第二卷 新世界.md:12199-12215 | /Users/gao/Library/Mobile Documents/com~apple~CloudDocs/旅顺口写作计划/原著/md/第二卷 新世界.md | 市井转述刘大霖“汉贼不两立”，元老院认为他难拉拢但重要。 | 早期强硬立场和后期转变对比。 |
+| 第三卷 新社会.md:24636-24776 | /Users/gao/Library/Mobile Documents/com~apple~CloudDocs/旅顺口写作计划/原著/md/第三卷 新社会.md | 茉莉轩重修，刘大霖出席题碑、受聘山长，并接受真正改善行动能力的轮椅。 | 早期戒惧松动、文教接口和体面接受。 |
 | 第三卷 新社会.md:29550-29688 | /Users/gao/Library/Mobile Documents/com~apple~CloudDocs/旅顺口写作计划/原著/md/第三卷 新社会.md | 行政申诉答复书、丈田申诉、熊卜佑用数据说服刘大霖。 | 好法怕坏执行，制度评价转折。 |
 | 第四卷 新澳洲.md:4913-4917 | /Users/gao/Library/Mobile Documents/com~apple~CloudDocs/旅顺口写作计划/原著/md/第四卷 新澳洲.md | 向于鄂水讲科举、八股、殿试和文风。 | 科举专家身份。 |
 | 第四卷 新澳洲.md:14138-14172 | /Users/gao/Library/Mobile Documents/com~apple~CloudDocs/旅顺口写作计划/原著/md/第四卷 新澳洲.md | 澄迈战后判断朝廷占理、澳洲人占民心，仍去茉莉轩讲学。 | 名分与民心冲突。 |
@@ -20,6 +21,7 @@
 | 第六卷 战争.md:8547-8581 | /Users/gao/Library/Mobile Documents/com~apple~CloudDocs/旅顺口写作计划/原著/md/第六卷 战争.md | 刘大霖分析澳洲富强来自生产力、运输、调剂有无，并感叹大明末世。 | 生产与制度分析。 |
 | 第六卷 战争.md:8713-8723 | /Users/gao/Library/Mobile Documents/com~apple~CloudDocs/旅顺口写作计划/原著/md/第六卷 战争.md | 看到贫苦孤儿被教育得光彩照人，追问办学动机。 | 有教无类与长期主义。 |
 | 第六卷 战争.md:8845-8859 | /Users/gao/Library/Mobile Documents/com~apple~CloudDocs/旅顺口写作计划/原著/md/第六卷 战争.md | 回程看见丰年、工厂、新村，感叹临高真美但自己无用。 | 民生实景的情感转折。 |
+| 第七卷 大陆-广州治理篇.md:37317-37353 | /Users/gao/Library/Mobile Documents/com~apple~CloudDocs/旅顺口写作计划/原著/md/第七卷 大陆-广州治理篇.md | 何威拜访刘大霖后读懂澳宋法治、旧身份特权失效和守法顺民逻辑。 | 刘大霖对广州士绅的外溢影响。 |
 | 第八卷 深耕经营(上).md:5277-5365 | /Users/gao/Library/Mobile Documents/com~apple~CloudDocs/旅顺口写作计划/原著/md/第八卷 深耕经营(上).md | 旧故频繁来临高，唐糖建议刘大霖开办茉莉旅社，咨议局合股。 | 茉莉旅社/茉莉客栈作为旧士林接口和实业融合。 |
 | 第八卷 深耕经营(上).md:11580-11625 | /Users/gao/Library/Mobile Documents/com~apple~CloudDocs/旅顺口写作计划/原著/md/第八卷 深耕经营(上).md | 赴广州前与张枭、林默天同行，说明会见陈子壮。 | 后期政治信任和传话接口。 |
 | 第八卷 深耕经营(上).md:15433-15445 | /Users/gao/Library/Mobile Documents/com~apple~CloudDocs/旅顺口写作计划/原著/md/第八卷 深耕经营(上).md | 杨草称刘大霖为咨议局首席委员，政治鉴定2C可靠。 | 强力机关认可。 |

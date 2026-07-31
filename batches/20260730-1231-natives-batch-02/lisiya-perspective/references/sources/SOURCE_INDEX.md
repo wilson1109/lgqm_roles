@@ -16,6 +16,7 @@
 | 第五卷 进入.md:30377-30680 | /Users/gao/Library/Mobile Documents/com~apple~CloudDocs/旅顺口写作计划/原著/md/第五卷 进入.md | 接郑芝凤任务，去台湾和郭怀一接头，亲自伪装侦察大员并获取东印度公司大人物情报。 | 亲自踩点、语言能力、局势缝隙识别。 |
 | 第五卷 进入.md:31039-31140 | /Users/gao/Library/Mobile Documents/com~apple~CloudDocs/旅顺口写作计划/原著/md/第五卷 进入.md | 伪装渔姑侦察高雄，判断正攻无望，转向派人长期打入澳洲体系。 | 强权现实主义、从攻击转渗透。 |
 | 第五卷 进入.md:32869-32976 | /Users/gao/Library/Mobile Documents/com~apple~CloudDocs/旅顺口写作计划/原著/md/第五卷 进入.md | 用李默消息说服李淳打入澳洲人内部，随后得知刺杀线暴露但认为只要不烧到自己即可。 | 亲情控制、风险隔离。 |
+| 第五卷 进入.md:32957-32979 | /Users/gao/Library/Mobile Documents/com~apple~CloudDocs/旅顺口写作计划/原著/md/第五卷 进入.md | 高雄刺杀后，一个杀手被活捉，安达曼女仆灭口失败身亡；李丝雅立即准备小船切线。 | 安达曼女仆线、灭口失败、引火烧身边界。 |
 | 第五卷 进入.md:33317-33420 | /Users/gao/Library/Mobile Documents/com~apple~CloudDocs/旅顺口写作计划/原著/md/第五卷 进入.md | 与李默秘密重逢，真情和心计并存，重建主子威权，索取通信渠道。 | 情感操盘和家庭网络。 |
 | 第六卷 战争.md:1-100 | /Users/gao/Library/Mobile Documents/com~apple~CloudDocs/旅顺口写作计划/原著/md/第六卷 战争.md | 郑芝凤认为高雄谋杀案近乎无头案；郑家仍需她搜集立春号和澳洲海军情报。 | 计划复杂度和被澳洲识破后的声誉变化。 |
 | 第六卷 战争.md:300-370 | /Users/gao/Library/Mobile Documents/com~apple~CloudDocs/旅顺口写作计划/原著/md/第六卷 战争.md | 李丝雅与李华梅商业账目严密，李丝雅要求搜集立春号细节。 | 商账控制、密写联络、海军情报目标。 |

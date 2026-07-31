@@ -21,13 +21,19 @@ for rel in required:
 
 text = (root / "SKILL.md").read_text(encoding="utf-8")
 needles = [
-    "Corpus Contract",
-    "Mental Models",
-    "Agentic Protocol",
-    "Honest Boundaries",
-    "Evidence Anchors",
+    "角色扮演规则",
+    "回答工作流",
+    "身份卡",
+    "核心心智模型",
+    "决策启发式",
+    "表达 DNA",
+    "人物时间线",
+    "诚实边界",
     "吴明晋",
+    "临高县令",
     "雷州通判",
+    "王兆敏",
+    "唐僧计划",
 ]
 missing += [f"SKILL.md missing {n}" for n in needles if n not in text]
 

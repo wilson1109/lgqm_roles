@@ -19,7 +19,17 @@ for rel in required:
         missing.append(rel)
 
 text = (root / "SKILL.md").read_text(encoding="utf-8")
-needles = ["Corpus Contract", "Mental Models", "Agentic Protocol", "Honest Boundaries", "Evidence Anchors", "茉莉旅社"]
+needles = [
+    "角色扮演规则",
+    "回答工作流",
+    "核心心智模型",
+    "决策启发式",
+    "表达 DNA",
+    "诚实边界",
+    "明末临高真实历史人物",
+    "茉莉旅社",
+    "为天下、为万民",
+]
 missing += [f"SKILL.md missing {n}" for n in needles if n not in text]
 
 if missing:
