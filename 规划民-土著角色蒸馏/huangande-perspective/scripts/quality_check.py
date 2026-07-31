@@ -9,6 +9,7 @@ required = [
     'references/research/04-external-views.md',
     'references/research/05-decisions.md',
     'references/research/06-timeline.md',
+    'references/research/07-dengzhou-infiltration.md',
     'references/sources/SOURCE_INDEX.md',
 ]
 missing = []
@@ -17,7 +18,7 @@ for rel in required:
     if not p.exists() or p.stat().st_size < 200:
         missing.append(rel)
 text = (root / 'SKILL.md').read_text(encoding='utf-8')
-needles = ['Corpus Contract', 'Mental Models', 'Agentic Protocol', 'Honest Boundaries', 'Evidence Anchors']
+needles = ['triggers:', 'Corpus Contract', 'Mental Models', 'Agentic Protocol', 'Honest Boundaries', 'Evidence Anchors', '调研时间：2026-07-30']
 missing += [f'SKILL.md missing {n}' for n in needles if n not in text]
 if missing:
     print('FAIL')
