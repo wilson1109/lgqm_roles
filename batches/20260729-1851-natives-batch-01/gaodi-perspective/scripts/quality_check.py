@@ -17,7 +17,19 @@ for rel in required:
     if not p.exists() or p.stat().st_size < 200:
         missing.append(rel)
 text = (root / 'SKILL.md').read_text(encoding='utf-8')
-needles = ['Corpus Contract', 'Mental Models', 'Agentic Protocol', 'Honest Boundaries', 'Evidence Anchors', '松竹斋', '京师地下网络', '管制药品']
+needles = [
+    'triggers:',
+    '思维操作系统',
+    '角色扮演规则',
+    'Agentic Protocol',
+    '核心心智模型',
+    '决策启发式',
+    '表达 DNA',
+    '诚实边界',
+    '松竹斋',
+    '京师地下网络',
+    '管制药品',
+]
 missing += [f'SKILL.md missing {n}' for n in needles if n not in text]
 if missing:
     print('FAIL')

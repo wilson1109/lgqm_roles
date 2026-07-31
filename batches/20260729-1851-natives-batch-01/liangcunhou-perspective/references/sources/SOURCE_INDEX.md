@@ -15,6 +15,8 @@
 | 第八卷 深耕经营(上).md:8239-8299 | /Users/gao/Library/Mobile Documents/com~apple~CloudDocs/旅顺口写作计划/原著/md/第八卷 深耕经营(上).md | 巫蛊案线索、玉源社政审内情和大量元老院资料收集收束到梁存厚，政保局将其打入另册并加强监控。 | 坐实梁存厚是政保重点对付对象。 |
 | 第八卷 深耕经营(上).md:8493-8540 | /Users/gao/Library/Mobile Documents/com~apple~CloudDocs/旅顺口写作计划/原著/md/第八卷 深耕经营(上).md | 政保策反梁府内院管事，点出反宋舆论、勾连四乡缙绅、刺探政军情报，并获知《天情广闻录》。 | 梁府是反宋情报和串联枢纽。 |
 | 第八卷 深耕经营(上).md:8587-8895 | /Users/gao/Library/Mobile Documents/com~apple~CloudDocs/旅顺口写作计划/原著/md/第八卷 深耕经营(上).md | 午木将梁存厚势力拆为招揽人员、制造舆论、情报搜集、武备力量，评价他是第一个正视并学习澳宋的敌人。 | 反宋后台的结构化证据。 |
+| 第八卷 深耕经营(上).md:8669-8681 | /Users/gao/Library/Mobile Documents/com~apple~CloudDocs/旅顺口写作计划/原著/md/第八卷 深耕经营(上).md | 梁存厚向乔岩解释《琼崖败略十一疏》和《天情广闻录》的起因，分析公开财报、铁路、专业分工和“系统”。 | 直接呈现“知髡以制髡”的自述与分析能力。 |
+| 第八卷 深耕经营(上).md:9007-9029 | /Users/gao/Library/Mobile Documents/com~apple~CloudDocs/旅顺口写作计划/原著/md/第八卷 深耕经营(上).md | 梁存厚向月婉自述政保逼近、布局将败，并以“王朝可更易，道统不能绝”自勉赴义。 | 直接呈现后期道统危机、末世感和不能降的声音核心。 |
 | 第八卷 深耕经营(上).md:15410-15445 | /Users/gao/Library/Mobile Documents/com~apple~CloudDocs/旅顺口写作计划/原著/md/第八卷 深耕经营(上).md | 政保给目标人物起内部代号，梁存厚代号“老泥鳅”。 | 体现其滑溜、难抓、长期盯防的定位。 |
 | 第八卷 深耕经营(上).md:18600-18610 | /Users/gao/Library/Mobile Documents/com~apple~CloudDocs/旅顺口写作计划/原著/md/第八卷 深耕经营(上).md | 午木称梁家处在秘密串联、密谋造反关键时刻。 | 敌对活动不是清谈，而是现实谋反威胁。 |
 | 第八卷 深耕经营(上).md:35395-35725 | /Users/gao/Library/Mobile Documents/com~apple~CloudDocs/旅顺口写作计划/原著/md/第八卷 深耕经营(上).md | 政保文章分析其走上反髡道路；元老谈话称其为广州头号反髡分子。 | 坐实后期身份主轴：元老院敌人。 |
