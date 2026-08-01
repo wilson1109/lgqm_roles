@@ -3,3 +3,9 @@
 batches/20260729-1851-natives-batch-01_draft_backup/
 __pycache__/
 .omc/
+
+# Senator batch local tooling; submit final results only.
+verify_batch.py
+batches/*-senators-batch-*/build_skills.py
+batches/*-senators-batch-*/extract_evidence.py
+!batches/*-senators-batch-*/*-perspective/references/sources/EVIDENCE.jsonl
