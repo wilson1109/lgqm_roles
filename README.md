@@ -13,6 +13,99 @@
 - 重新打包 36 个元老 zip，压包时排除 `.DS_Store`。
 - 新增第一批归化民/土著角色目录：`batches/20260729-1851-natives-batch-01/`，共 15 人。
 - 已完成本地检查：元老目录 36/36 通过，元老 zip 36/36 通过；第一批归化民/土著目录 15/15 通过，zip 15/15 通过。
+- **新增 `lgqm-writing/` 同人写作智能路由器**：自动识别场景、匹配并调用 81+ 个角色 perspective skill。支持指定角色写作、场景驱动推荐、多角色编排、世界观一致性检查。
+
+## 同人写作路由器（lgqm-writing）
+
+`lgqm-writing/` 是全部角色 skill 的统一入口，自动在正确的时机调用正确的角色 skill。
+
+### 目录结构
+
+```text
+lgqm-writing/
+├── SKILL.md                    # 路由器：意图分类 → 匹配 → 调用 → 合成
+├── references/
+│   ├── character-catalog.md    # 自动生成：全角色速查表（勿手改）
+│   ├── domain-index.md         # 自动生成：领域→角色映射（勿手改）
+│   ├── scenario-mapping.md     # 手动维护：场景→领域标签映射
+│   └── writing-principles.md   # 同人写作方法论
+├── scripts/
+│   ├── build_catalog.py        # 重建 catalog（新增角色后运行）
+│   ├── validate_catalog.py     # --check 完整性 / --test 匹配测试
+│   └── install.py              # 跨平台安装脚本
+└── workflows/                  # 分场景处理流程（单角色/多角色/场景推荐/设定检查/回退）
+```
+
+### 安装
+
+**一键安装**（Windows / macOS / Linux）：
+
+**PowerShell（Windows）**
+```powershell
+# 从 lgqm_roles/ 目录
+python lgqm-writing\scripts\install.py
+
+# 安装到自定义目录
+python lgqm-writing\scripts\install.py --dir "$HOME\.claude\skills"
+
+# 或者切到 lgqm_roles/ 目录再运行（PowerShell 推荐用 Set-Location）
+Set-Location "E:\AI_project\lgqm_roles"
+python lgqm-writing\scripts\install.py
+```
+
+**Bash（macOS / Linux / Git Bash）**
+```bash
+# 从 lgqm_roles/ 目录
+python lgqm-writing/scripts/install.py
+
+# 安装到自定义目录
+python lgqm-writing/scripts/install.py --dir ~/.claude/skills
+```
+
+脚本会自动将 `lgqm-writing/` 和全部 `*-perspective/` 平铺复制到 `~/.claude/skills/`。安装后首次运行：
+
+**PowerShell**
+```powershell
+python "$HOME\.claude\skills\lgqm-writing\scripts\build_catalog.py"
+```
+
+**Bash**
+```bash
+python ~/.claude/skills/lgqm-writing/scripts/build_catalog.py
+```
+
+### 使用
+
+在 Claude Code / Codex 中点名角色或描述场景即可，路由器自动匹配：
+
+- "用北炜视角分析这个行动"
+- "写雷州糖厂被海义堂围攻的场景"
+- "让杜雯和萧子山辩论工业化代价"
+- "这段剧情符不符合临高设定？"
+
+### 新增角色
+
+1. 将 `new-character-perspective/` 放入任一分类目录（源仓库）
+2. 运行 `build_catalog.py` 重建索引：
+   - PowerShell：`python lgqm-writing\scripts\build_catalog.py`
+   - Bash：`python lgqm-writing/scripts/build_catalog.py`
+3. 涉及新场景类型时手动更新 `scenario-mapping.md`
+
+### 验证
+
+**PowerShell**
+```powershell
+# 完整性（triggers 非空、目录完整）
+python lgqm-writing\scripts\validate_catalog.py --check
+# 匹配测试矩阵（35 用例）
+python lgqm-writing\scripts\validate_catalog.py --test
+```
+
+**Bash**
+```bash
+python lgqm-writing/scripts/validate_catalog.py --check   # 完整性（triggers 非空、目录完整）
+python lgqm-writing/scripts/validate_catalog.py --test    # 匹配测试矩阵（35 用例）
+```
 
 ## 目录组织
 
