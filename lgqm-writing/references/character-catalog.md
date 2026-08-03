@@ -1,40 +1,47 @@
 # 临高启明角色目录 (Character Catalog)
 
-> 自动生成于 2026-08-02T20:05:43 | 共 81 角色 | hash: 0f31cc81
+> 自动生成于 2026-08-03T20:32:05 | 共 97 角色 | hash: 2cf7abb3
 > 生成命令: python lgqm-writing/scripts/build_catalog.py
 
 ## 目录索引
 
-- **军事**: beiwei, chensigen, fuwuben, huangxiong, lihuamei, mingqiu, qianduoduo, salinna, sunyuanhua, wude, xueziliang, yangerdong, zengjuan, zhumingxia
-- **农业**: chenzizhuang, fubuer, limo, wunanhai, zhangxiao
-- **化工**: gaodi, lucheng, xuyingjie, zengkun, zhengmingjiang
-- **医疗**: fuwuben, gaodi, limo, linmotian, lucheng, yangshixiang, zhengmingjiang
-- **商业**: changshide, gaoju, gubaocheng, guoyi, lihuamei, liluoyou, limei, luoyangming, sunkecheng, wendeshi, wentong, yangshixiang, zhaoyingong
-- **士绅**: chenzizhuang, liangcunhou, liudalin, liuxiang, pengshouan, xuguangqi
-- **大明朝廷**: changqingyun, chongzhen, jiangshan, wangyehao, wentiren, wumingjin, yangshixiang, yangsichang
+- **军事**: beiwei, chenhaiyang, chensigen, fuwuben, huangxiong, lihuamei, mingqiu, qianduoduo, salinna, sunyuanhua, wude, xueziliang, yangerdong, zengjuan, zhumingxia
+- **农业**: chengdong, chenzizhuang, fubuer, kuanglu, limo, lisuiqiu, suguansheng, wunanhai, zhangjiayu, zhangmu, zhangqiao, zhangxiao
+- **化工**: gaodi, lucheng, shiniaoren, xuyingjie, zengkun, zhengmingjiang
+- **医疗**: fuwuben, gaodi, limo, linmotian, liusan, lucheng, shiniaoren, yangshixiang, zhengmingjiang
+- **商业**: changshide, gaoju, gubaocheng, guoyi, lihuamei, liluoyou, limei, liusan, luoyangming, sunkecheng, wendeshi, wentong, yangshixiang, zhaoyingong
+- **士绅**: chenbangyan, chenzizhuang, liangcunhou, lisuiqiu, liudalin, liuxiang, pengshouan, suguansheng, xuguangqi, zhangjiayu
+- **大明朝廷**: changqingyun, chongzhen, jiangshan, lisuiqiu, suguansheng, wangyehao, wentiren, wumingjin, yangshixiang, yangsichang, zhangqiao
 - **女性权利**: chengyongxin, duwen, lisiya, lucheng
 - **宗教**: jiangshan, wushimang, zhangyingchen
-- **宣传/传媒**: duwen, panpan, zhangyingchen
+- **宣传/传媒**: duwen, panpan, xieerren, zhangyingchen
 - **山东**: chentong, huangande, huangxiong, luwenyuan, sunyuanhua, zhaofengtian, zhumingxia
-- **工业**: beiwei, chentianxiong, maqianzhu, wentong, wumingjin, xuyingjie, zengkun, zhangxiao
-- **广州治理**: fuwuben, gaodi, gaoju, guoyi, huangping, liangcunhou, liluoyou, linbaiguang, linming, liudalin, liuxiang, liyongxun, liziyu, lucheng, mumin, qianduoduo, sunkecheng, wuxiang, yaoyulan, zengjuan, zhangyu, zhangyunmi
-- **情报**: chentianxiong, chentong, gaodi, guoyi, jiangshan, liangcunhou, liluoyou, linbaiguang, linming, lisiya, luoyangming, sunkecheng, wangyehao, xueziliang, zhangyingchen, zhaomanxiong
+- **工业**: beiwei, chentianxiong, liusan, maqianzhu, wentong, wumingjin, xuyingjie, zengkun, zhangxiao
+- **广州治理**: aizhixin, chengdong, fuwuben, gaodi, gaoju, guoyi, huangping, kuanglu, liangcunhou, liluoyou, linbaiguang, linming, liudalin, liusan, liuxiang, liyongxun, liziyu, lucheng, mumin, qianduoduo, suguansheng, sunkecheng, wangqiyi, wuxiang, xieerren, yaoyulan, zengjuan, zhangqiao, zhangxiaoqi, zhangyu, zhangyunmi
+- **情报**: chentianxiong, chentong, gaodi, guoyi, jiangshan, lengningyun, liangcunhou, liluoyou, linbaiguang, linming, lisiya, lisuiqiu, luoyangming, sunkecheng, wangyehao, xueziliang, zhangyingchen, zhaomanxiong
 - **政保**: liangcunhou, lihuamei, limo, lucheng, luoyangming, yangcao, yaoyulan, zhaomanxiong
-- **政治/人事**: chengyongxin, chongzhen, gaoju, linmotian, liuxiang, luoyangming, maqianzhu, minglang, wentiren, wude, xiaozishan, yaoyulan, zhangyunmi, zhaomanxiong
-- **教育**: chentong, gaodi, huangping, liudalin, zengjuan, zhangyu, zhangyunmi
+- **政治/人事**: aizhixin, chengdong, chengyongxin, chongzhen, gaoju, linmotian, liuxiang, luoyangming, maqianzhu, minglang, shiniaoren, suguansheng, wentiren, wude, xiaozishan, yaoyulan, zhangxiaoqi, zhangyunmi, zhaomanxiong
+- **教育**: chentong, gaodi, huangping, liudalin, shiniaoren, zengjuan, zhangyu, zhangyunmi
 - **江南**: chenzizhuang, liuxiang, xuguangqi, zhaoyingong
 - **流寇/民变**: chongzhen, lizicheng, yangsichang
-- **海军**: lihuamei, mingqiu
+- **海军**: chenhaiyang, lihuamei, mingqiu
 - **海盗/海上**: lihuamei, linbaiguang, lisiya, liyongxun
 - **满清**: chongzhen, huangtaiji, liluoyou, yangsichang
 - **火工/装备**: xuyingjie
-- **特种作战**: beiwei, chensigen, huangande, jiangshan, xueziliang, xuyingjie, yangerdong, zengkun, zhaomanxiong
+- **特种作战**: beiwei, chenbangyan, chensigen, huangande, jiangshan, xueziliang, xuyingjie, yangerdong, zengkun, zhaomanxiong
 - **警务**: liuxiang, liyongxun, liziyu, mapeng, mumin, qianduoduo, wuxiang, yangcao, zhumingxia
-- **防疫**: fuwuben, limo, linmotian, wangyehao
+- **防疫**: fuwuben, limo, linmotian, liusan, shiniaoren, wangyehao
 - **难民/收容**: huangande, luwenyuan, zhumingxia
 - **雷州**: beiwei, changshide, chentianxiong, wentong, wumingjin
 
 ---
+
+## aizhixin-perspective
+- **角色名**: 艾志新
+- **Skill 名**: aizhixin
+- **触发词** (25): 艾志新, 艾局, 艾局长, 广州财税局, 广东大区财税专员, 为国聚财, 税务局长, 自报实缴, 轻税重罚, 包税制, 代收代缴, 委托代征, 风俗税, 花捐, 黄票, 印花税, 流通税, 财产税, 土地税, 专卖局
+- **领域**: 政治/人事, 广州治理
+- **路径**: E:\AI_project\lgqm_roles\元老角色蒸馏\aizhixin-perspective
 
 ## beiwei-perspective
 - **角色名**: 北炜
@@ -57,12 +64,33 @@
 - **领域**: 雷州, 商业
 - **路径**: E:\AI_project\lgqm_roles\元老角色蒸馏\changshide-perspective
 
+## chenbangyan-perspective
+- **角色名**: 陈邦彦
+- **Skill 名**: chenbangyan
+- **触发词** (25): 陈邦彦, 岩野, 令斌, 岭南三忠, 顺德龙山, 锦岩, 雪声堂, 以夷变夏, 乡兵, 甘竹滩, 中兴政要, 反髡, 围魏救赵, 迟则亡速则存, 龙山堡, 成不成天也, 崖山忠魂, 陈子壮, 张家玉, 黎遂球
+- **领域**: 特种作战, 士绅
+- **路径**: E:\AI_project\lgqm_roles\明朝真实历史人物蒸馏\chenbangyan-perspective
+
+## chengdong-perspective
+- **角色名**: 程栋
+- **Skill 名**: chengdong
+- **触发词** (28): 程栋, 程总监, 老程, 财金相, 财政相, 财政总监, 财政金融委员, 财政金融口, 财经口, 财金口, 五道口, 五道口系, 会计系, 银行系, 财税系, 德隆银行, 中央储备银行, 契卡, 审计局, 粮食流通券
+- **领域**: 政治/人事, 广州治理, 农业
+- **路径**: E:\AI_project\lgqm_roles\元老角色蒸馏\chengdong-perspective
+
 ## chengyongxin-perspective
 - **角色名**: 程咏昕
 - **Skill 名**: chengyongxin
 - **触发词** (8): 程咏昕, 圣母元老, 女仆案, 女性权利, 女权, 杨继红, 杜雯, chengyongxin
 - **领域**: 政治/人事, 女性权利
 - **路径**: E:\AI_project\lgqm_roles\元老角色蒸馏\chengyongxin-perspective
+
+## chenhaiyang-perspective
+- **角色名**: 陈海阳
+- **Skill 名**: chenhaiyang
+- **触发词** (17): 陈海阳, 陈海洋, 陈首长, 海军军令部, 海军军令部长, 海上力量, 海军人民委员, 海军正规化, 航海学, 六分仪, 象限仪, 852基地, 大屿山, 虎门, 珠江口特遣队, 诸彩老, 合理负担
+- **领域**: 军事, 海军
+- **路径**: E:\AI_project\lgqm_roles\元老角色蒸馏\chenhaiyang-perspective
 
 ## chensigen-perspective
 - **角色名**: 陈思根
@@ -189,6 +217,20 @@
 - **领域**: 特种作战, 情报, 宗教, 大明朝廷
 - **路径**: E:\AI_project\lgqm_roles\元老角色蒸馏\jiangshan-perspective
 
+## kuanglu-perspective
+- **角色名**: 邝露
+- **Skill 名**: kuanglu
+- **触发词** (20): 邝露, 湛若, 海雪, 邝湛若, 邝海雪, 粤中屈原, 邝鹦鹉, 绿绮台, 南风, 赤雅, 峤雅, 海雪堂, 天上玉麒麟, 窜条, 抱琴, 典琴, 憨山, 云嚲娘, 黄熙胤, 竹林七贤
+- **领域**: 广州治理, 农业
+- **路径**: E:\AI_project\lgqm_roles\明朝真实历史人物蒸馏\kuanglu-perspective
+
+## lengningyun-perspective
+- **角色名**: 冷凝云
+- **Skill 名**: lengningyun
+- **触发词** (22): 冷凝云, 冷掌柜, 德隆, 京师站, 北京分行, 存款准备金, 挤兑, 杨公公, 杨天梁, 太监路线, 山西屋子, 山西商帮, 李洛由, 石翁, 石翁集团, 乐先生, 黑尔Like, 绑架冷凝云, 天津开放口岸, 京师办报
+- **领域**: 情报
+- **路径**: E:\AI_project\lgqm_roles\元老角色蒸馏\lengningyun-perspective
+
 ## liangcunhou-perspective
 - **角色名**: 梁存厚
 - **Skill 名**: liangcunhou
@@ -252,12 +294,26 @@
 - **领域**: 情报, 女性权利, 海盗/海上
 - **路径**: E:\AI_project\lgqm_roles\规划民-土著角色蒸馏\lisiya-perspective
 
+## lisuiqiu-perspective
+- **角色名**: 黎遂球
+- **Skill 名**: lisuiqiu
+- **触发词** (20): 黎遂球, 美周, 黎美周, 黎牡丹, 黄牡丹状元, 莲须阁, 岭南前三家, 南园十二子, 复社, 陈子壮, 邝露, 陈邦彦, 天尊地卑, 地圆说, 以夷变夏, 断肉铭, 由孝立忠, 影园, 赣州, 散木堂
+- **领域**: 情报, 农业, 大明朝廷, 士绅
+- **路径**: E:\AI_project\lgqm_roles\明朝真实历史人物蒸馏\lisuiqiu-perspective
+
 ## liudalin-perspective
 - **角色名**: 刘大霖
 - **Skill 名**: liudalin
 - **触发词** (15): 刘大霖, 刘进士, 孟良, 临高唯一进士, 茉莉轩, 茉莉旅社, 茉莉客栈, 咨议局, 首席委员, 首席咨政, 广州同年, 陈子壮辩论, 为天下非为君, 民贵君轻, 旧士绅转向
 - **领域**: 广州治理, 士绅, 教育
 - **路径**: E:\AI_project\lgqm_roles\明朝真实历史人物蒸馏\liudalin-perspective
+
+## liusan-perspective
+- **角色名**: 刘三
+- **Skill 名**: liusan
+- **触发词** (17): 刘三, 刘大夫, 刘神医, 中医药, 润世堂, 中成药, 制药厂, 佛山药材, 杨润开堂, 李洛由, 柳工作, 萱春, 乌云花, 离婚事件, 普济堂, 弃婴塔, 医士执照
+- **领域**: 广州治理, 工业, 医疗, 商业, 防疫
+- **路径**: E:\AI_project\lgqm_roles\元老角色蒸馏\liusan-perspective
 
 ## liuxiang-perspective
 - **角色名**: 刘翔
@@ -371,6 +427,20 @@
 - **领域**: 军事
 - **路径**: E:\AI_project\lgqm_roles\元老角色蒸馏\salinna-perspective
 
+## shiniaoren-perspective
+- **角色名**: 时袅仁
+- **Skill 名**: shiniaoren
+- **触发词** (31): 时袅仁, 时袅仞, 时院长, 时部长, 时博士, 时大夫, 时元老, 时元老临朝, 卫生人民委员, 百仞总医院, 临高总医院, 卫生部, 卫生口, 医疗口, 医药规划, 疾病预防工作建议, 海南常见病治疗指导, 常见病预防和治疗手册, 人体解剖, 死者教育生者
+- **领域**: 政治/人事, 化工, 医疗, 教育, 防疫
+- **路径**: E:\AI_project\lgqm_roles\元老角色蒸馏\shiniaoren-perspective
+
+## suguansheng-perspective
+- **角色名**: 苏观生
+- **Skill 名**: suguansheng
+- **触发词** (16): 苏观生, 宇霖, 苏宇霖, 三不要老爷, 严庵, 无极知县, 建明伯, 绍武, 隆武故人, 拔贡, 志大才疏, 反髡复明, 兄弟齐心, 筷子理论, 里应外合, 张一凤
+- **领域**: 政治/人事, 广州治理, 农业, 大明朝廷, 士绅
+- **路径**: E:\AI_project\lgqm_roles\明朝真实历史人物蒸馏\suguansheng-perspective
+
 ## sunkecheng-perspective
 - **角色名**: 孙可成
 - **Skill 名**: sunkecheng
@@ -390,6 +460,13 @@
 - **Skill 名**: wangchuyi
 - **触发词** (13): 王初一, 阳山县长, 老归化民干部, 归化民县长, 阳山治理, 合理负担, 招安剿匪, 孙大彪, 张天波, 大崀圩伏击, 截肢, 地方干部培养, 归化民干部
 - **路径**: E:\AI_project\lgqm_roles\规划民-土著角色蒸馏\wangchuyi-perspective
+
+## wangqiyi-perspective
+- **角色名**: 王企益
+- **Skill 名**: wangqiyi
+- **触发词** (21): 王企益, 王局, 王局长, 王副局长, 老王, 广州财税局副局长, 广东省财税副专员, 税务征管, 抓大控中放小, 预算级次, 国库财政, 税收共享, 税收统计报表, 经济罪案调查处, 史家税案, 假税票, 贵人聚, 楚小冉善后, 财税局内控, 归化民干部培训
+- **领域**: 广州治理
+- **路径**: E:\AI_project\lgqm_roles\元老角色蒸馏\wangqiyi-perspective
 
 ## wangyehao-perspective
 - **角色名**: 王业浩
@@ -467,6 +544,13 @@
 - **领域**: 政治/人事
 - **路径**: E:\AI_project\lgqm_roles\元老角色蒸馏\xiaozishan-perspective
 
+## xieerren-perspective
+- **角色名**: 解迩仁
+- **Skill 名**: xieerren
+- **触发词** (10): 解迩仁, 梧州, 梧州市长, 梧州军管会, 百里侯, 宣传队, 善后筹款, 蔡兰, 梧州夜袭, 听证会
+- **领域**: 广州治理, 宣传/传媒
+- **路径**: E:\AI_project\lgqm_roles\元老角色蒸馏\xieerren-perspective
+
 ## xueziliang-perspective
 - **角色名**: 薛子良
 - **Skill 名**: xueziliang
@@ -537,12 +621,40 @@
 - **领域**: 特种作战, 工业, 化工
 - **路径**: E:\AI_project\lgqm_roles\元老角色蒸馏\zengkun-perspective
 
+## zhangjiayu-perspective
+- **角色名**: 张家玉
+- **Skill 名**: zhangjiayu
+- **触发词** (23): 张家玉, 芷园, 家玉, 张玄子, 岭南三忠, 申奥学社, 东莞秀才, 见习参议, 张枭, 赵和宁, 林洊, 张穆, 严庵, 武兴营, 孔门高第太祖孤臣, 剃发留发, 杜易斌, 石宝, 青霉素, 救母
+- **领域**: 农业, 士绅
+- **路径**: E:\AI_project\lgqm_roles\明朝真实历史人物蒸馏\zhangjiayu-perspective
+
+## zhangmu-perspective
+- **角色名**: 张穆
+- **Skill 名**: zhangmu
+- **触发词** (15): 张穆, 铁桥, 穆之, 铁桥道人, 画马, 曹霸, 韩干, 李龙眠, 罗浮, 志大才疏, 江湖险恶, 铜龙, 鸡冠赤, 赖其肖, 武兴营
+- **领域**: 农业
+- **路径**: E:\AI_project\lgqm_roles\明朝真实历史人物蒸馏\zhangmu-perspective
+
+## zhangqiao-perspective
+- **角色名**: 张乔
+- **Skill 名**: zhangqiao
+- **触发词** (13): 张乔, 张丽人, 二乔, 丽人, 莲香集, 百花冢, 无根之兰, 不如寒淡嫁书生, 彭孟阳, 南园诗社, 铜雀春深, 送黎美周, 歌者张丽人
+- **领域**: 广州治理, 农业, 大明朝廷
+- **路径**: E:\AI_project\lgqm_roles\明朝真实历史人物蒸馏\zhangqiao-perspective
+
 ## zhangxiao-perspective
 - **角色名**: 张枭
 - **Skill 名**: zhangxiao
 - **触发词** (10): 制药工艺, 绕过体制, 资源约束创新, 隐性知识, 敌在元老院, 量产思维, 药物开发, 工业化瓶颈, 毕生基金会, 工程判断
 - **领域**: 工业, 农业
 - **路径**: E:\AI_project\lgqm_roles\元老角色蒸馏\zhangxiao-perspective
+
+## zhangxiaoqi-perspective
+- **角色名**: 张筱奇
+- **Skill 名**: zhangxiaoqi
+- **触发词** (22): 张筱奇, 张局, 张局长, 张副局, 张副局长, 张老师, 王企益妻子, 代收代缴, 委托代征, 申报纳税, 零申报, 集中征收, 征收大厅, 国库和财政, 税收共享, 预算分级, 金融商品税目, 张允幂, 机关政治教学, 楚小冉
+- **领域**: 政治/人事, 广州治理
+- **路径**: E:\AI_project\lgqm_roles\元老角色蒸馏\zhangxiaoqi-perspective
 
 ## zhangyingchen-perspective
 - **角色名**: 张应宸
