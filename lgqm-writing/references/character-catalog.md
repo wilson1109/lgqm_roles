@@ -1,37 +1,37 @@
 # 临高启明角色目录 (Character Catalog)
 
-> 自动生成于 2026-08-03T20:32:05 | 共 97 角色 | hash: 2cf7abb3
+> 自动生成于 2026-08-04T13:05:45 | 共 103 角色 | hash: 93df16c5
 > 生成命令: python lgqm-writing/scripts/build_catalog.py
 
 ## 目录索引
 
-- **军事**: beiwei, chenhaiyang, chensigen, fuwuben, huangxiong, lihuamei, mingqiu, qianduoduo, salinna, sunyuanhua, wude, xueziliang, yangerdong, zengjuan, zhumingxia
-- **农业**: chengdong, chenzizhuang, fubuer, kuanglu, limo, lisuiqiu, suguansheng, wunanhai, zhangjiayu, zhangmu, zhangqiao, zhangxiao
+- **军事**: beiwei, chenhaiyang, chensigen, fuwuben, huangxiong, lihuamei, mingqiu, qianduoduo, salinna, sunyuanhua, tianliang, wude, xueziliang, yangerdong, zengjuan, zhumingxia
+- **农业**: chengdong, chenzizhuang, fubuer, huangxiyin, kuanglu, limo, lisuiqiu, liyaoer, suguansheng, tianliang, wunanhai, zhangjiayu, zhangmu, zhangqiao, zhangxiao, zhaohening
 - **化工**: gaodi, lucheng, shiniaoren, xuyingjie, zengkun, zhengmingjiang
-- **医疗**: fuwuben, gaodi, limo, linmotian, liusan, lucheng, shiniaoren, yangshixiang, zhengmingjiang
+- **医疗**: fuwuben, gaodi, limo, linmotian, liusan, lucheng, shiniaoren, tianliang, yangshixiang, zhengmingjiang
 - **商业**: changshide, gaoju, gubaocheng, guoyi, lihuamei, liluoyou, limei, liusan, luoyangming, sunkecheng, wendeshi, wentong, yangshixiang, zhaoyingong
-- **士绅**: chenbangyan, chenzizhuang, liangcunhou, lisuiqiu, liudalin, liuxiang, pengshouan, suguansheng, xuguangqi, zhangjiayu
-- **大明朝廷**: changqingyun, chongzhen, jiangshan, lisuiqiu, suguansheng, wangyehao, wentiren, wumingjin, yangshixiang, yangsichang, zhangqiao
+- **士绅**: chenbangyan, chenzizhuang, hewuzou, huangxiyin, liangcunhou, lisuiqiu, liudalin, liuxiang, pengshouan, suguansheng, xuguangqi, zhangjiayu
+- **大明朝廷**: changqingyun, chongzhen, hewuzou, huangxiyin, jiangshan, lisuiqiu, suguansheng, wangyehao, wentiren, wumingjin, yangshixiang, yangsichang, zhangqiao
 - **女性权利**: chengyongxin, duwen, lisiya, lucheng
 - **宗教**: jiangshan, wushimang, zhangyingchen
 - **宣传/传媒**: duwen, panpan, xieerren, zhangyingchen
-- **山东**: chentong, huangande, huangxiong, luwenyuan, sunyuanhua, zhaofengtian, zhumingxia
+- **山东**: chentong, huangande, huangxiong, luwenyuan, sunyuanhua, tianliang, zhaofengtian, zhumingxia
 - **工业**: beiwei, chentianxiong, liusan, maqianzhu, wentong, wumingjin, xuyingjie, zengkun, zhangxiao
-- **广州治理**: aizhixin, chengdong, fuwuben, gaodi, gaoju, guoyi, huangping, kuanglu, liangcunhou, liluoyou, linbaiguang, linming, liudalin, liusan, liuxiang, liyongxun, liziyu, lucheng, mumin, qianduoduo, suguansheng, sunkecheng, wangqiyi, wuxiang, xieerren, yaoyulan, zengjuan, zhangqiao, zhangxiaoqi, zhangyu, zhangyunmi
-- **情报**: chentianxiong, chentong, gaodi, guoyi, jiangshan, lengningyun, liangcunhou, liluoyou, linbaiguang, linming, lisiya, lisuiqiu, luoyangming, sunkecheng, wangyehao, xueziliang, zhangyingchen, zhaomanxiong
-- **政保**: liangcunhou, lihuamei, limo, lucheng, luoyangming, yangcao, yaoyulan, zhaomanxiong
-- **政治/人事**: aizhixin, chengdong, chengyongxin, chongzhen, gaoju, linmotian, liuxiang, luoyangming, maqianzhu, minglang, shiniaoren, suguansheng, wentiren, wude, xiaozishan, yaoyulan, zhangxiaoqi, zhangyunmi, zhaomanxiong
-- **教育**: chentong, gaodi, huangping, liudalin, shiniaoren, zengjuan, zhangyu, zhangyunmi
-- **江南**: chenzizhuang, liuxiang, xuguangqi, zhaoyingong
+- **广州治理**: aizhixin, chengdong, fuwuben, gaodi, gaoju, guoyi, huangping, kuanglu, liangcunhou, liluoyou, linbaiguang, linming, liudalin, liusan, liuxiang, liyongxun, liziyu, lucheng, mumin, qianduoduo, suguansheng, sunkecheng, wangqiyi, wumu, wuxiang, xieerren, yaoyulan, zengjuan, zhangqiao, zhangxiaoqi, zhangyu, zhangyunmi
+- **情报**: chentianxiong, chentong, gaodi, guoyi, jiangshan, lengningyun, liangcunhou, liluoyou, linbaiguang, linming, lisiya, lisuiqiu, luoyangming, sunkecheng, wangyehao, wumu, xueziliang, zhangyingchen, zhaomanxiong
+- **政保**: hewuzou, liangcunhou, lihuamei, limo, lucheng, luoyangming, wumu, yangcao, yaoyulan, zhaomanxiong
+- **政治/人事**: aizhixin, chengdong, chengyongxin, chongzhen, gaoju, linmotian, liuxiang, luoyangming, maqianzhu, minglang, shiniaoren, suguansheng, wentiren, wude, wumu, xiaozishan, yaoyulan, zhangxiaoqi, zhangyunmi, zhaomanxiong
+- **教育**: chentong, gaodi, huangping, liudalin, shiniaoren, tianliang, zengjuan, zhangyu, zhangyunmi, zhaohening
+- **江南**: chenzizhuang, hewuzou, liuxiang, liyaoer, xuguangqi, zhaoyingong
 - **流寇/民变**: chongzhen, lizicheng, yangsichang
 - **海军**: chenhaiyang, lihuamei, mingqiu
 - **海盗/海上**: lihuamei, linbaiguang, lisiya, liyongxun
 - **满清**: chongzhen, huangtaiji, liluoyou, yangsichang
 - **火工/装备**: xuyingjie
-- **特种作战**: beiwei, chenbangyan, chensigen, huangande, jiangshan, xueziliang, xuyingjie, yangerdong, zengkun, zhaomanxiong
-- **警务**: liuxiang, liyongxun, liziyu, mapeng, mumin, qianduoduo, wuxiang, yangcao, zhumingxia
-- **防疫**: fuwuben, limo, linmotian, liusan, shiniaoren, wangyehao
-- **难民/收容**: huangande, luwenyuan, zhumingxia
+- **特种作战**: beiwei, chenbangyan, chensigen, huangande, jiangshan, wumu, xueziliang, xuyingjie, yangerdong, zengkun, zhaomanxiong
+- **警务**: liuxiang, liyongxun, liziyu, mapeng, mumin, qianduoduo, wumu, wuxiang, yangcao, zhumingxia
+- **防疫**: fuwuben, limo, linmotian, liusan, shiniaoren, tianliang, wangyehao
+- **难民/收容**: huangande, luwenyuan, tianliang, zhumingxia
 - **雷州**: beiwei, changshide, chentianxiong, wentong, wumingjin
 
 ---
@@ -182,6 +182,13 @@
 - **领域**: 情报, 广州治理, 商业
 - **路径**: E:\AI_project\lgqm_roles\元老角色蒸馏\guoyi-perspective
 
+## hewuzou-perspective
+- **角色名**: 何吾驺
+- **Skill 名**: hewuzou
+- **触发词** (6): 何吾驺、龙友、象冈、老乌龟, 东皋别业、同年聚会, 香山缙绅、罢官阁臣, 与陈子壮/刘大霖/姚钿/赵恂如的互动, 温体仁党争、辜朝荐, 琼饷、商鞅旧法
+- **领域**: 政保, 大明朝廷, 士绅, 江南
+- **路径**: E:\AI_project\lgqm_roles\明朝真实历史人物蒸馏\hewuzou-perspective
+
 ## huangande-perspective
 - **角色名**: 黄安德
 - **Skill 名**: huangande
@@ -209,6 +216,13 @@
 - **触发词** (13): 黄熊, 黄队长, 黄连长, 黄上尉, 黄副营长, 蓟州镇把总, 登州旧兵, 甲子煤矿护卫队, 北上支队护卫队, 佛手湾纪律案, 连阳警备司令, 归化军官, 旧军官归化
 - **领域**: 军事, 山东
 - **路径**: E:\AI_project\lgqm_roles\规划民-土著角色蒸馏\huangxiong-perspective
+
+## huangxiyin-perspective
+- **角色名**: 黄熙胤
+- **Skill 名**: huangxiyin
+- **触发词** (7): 黄熙胤, 黄熙孕, 黄参议, 黄恭庭, 黄维敬, 南海知县, 贰臣
+- **领域**: 农业, 大明朝廷, 士绅
+- **路径**: E:\AI_project\lgqm_roles\明朝真实历史人物蒸馏\huangxiyin-perspective
 
 ## jiangshan-perspective
 - **角色名**: 江山
@@ -321,6 +335,13 @@
 - **触发词** (14): 城市治理, 广州市长, 琼山经验, 折腾王, 改革, 地方行政, 财税, 治安, 拆违, 胥吏, 缙绅, 公务员考试, IT项目管理, 革命行政
 - **领域**: 政治/人事, 广州治理, 士绅, 江南, 警务
 - **路径**: E:\AI_project\lgqm_roles\元老角色蒸馏\liuxiang-perspective
+
+## liyaoer-perspective
+- **角色名**: 李幺儿
+- **Skill 名**: liyaoer
+- **触发词** (11): 李幺儿, 幺儿姐, 蚕桑, 凤凰山庄, 缫丝厂, 沈苏, 沈杭, 赵和宁, 桑基鱼塘, 开弦弓, 香山南沙
+- **领域**: 农业, 江南
+- **路径**: E:\AI_project\lgqm_roles\元老角色蒸馏\liyaoer-perspective
 
 ## liyongxun-perspective
 - **角色名**: 李永薰
@@ -455,6 +476,13 @@
 - **领域**: 军事, 山东
 - **路径**: E:\AI_project\lgqm_roles\明朝真实历史人物蒸馏\sunyuanhua-perspective
 
+## tianliang-perspective
+- **角色名**: 田凉
+- **Skill 名**: tianliang
+- **触发词** (11): 田凉, 田三五, 田校长, 田督学, 归化民校长, 澄迈大战, 伏波军老兵, 郭芙, 郭三娘, 侯清, 南海国民示范学校
+- **领域**: 军事, 医疗, 农业, 山东, 教育, 防疫, 难民/收容
+- **路径**: E:\AI_project\lgqm_roles\规划民-土著角色蒸馏\tianliang-perspective
+
 ## wangchuyi-perspective
 - **角色名**: 王初一
 - **Skill 名**: wangchuyi
@@ -515,6 +543,13 @@
 - **触发词** (15): 吴明晋, 吴大令, 吴县令, 吴通判, 临高县正堂, 临高县令, 雷州通判, 王兆敏东翁, 傀儡县令, 垂拱而治, 县衙被架空, 代理县库, 团练联防, 旧官僚驯化, 唐僧计划
 - **领域**: 雷州, 工业, 大明朝廷
 - **路径**: E:\AI_project\lgqm_roles\明朝真实历史人物蒸馏\wumingjin-perspective
+
+## wumu-perspective
+- **角色名**: 午木
+- **Skill 名**: wumu
+- **触发词** (6): 午木、午主任、午局长、小午, 政治保卫局、政保总局、蒸包局, 广州分局、丰收行动、太阳伞专案, 赵曼熊、杨草、刘富卿, 反宋势力、梁存厚、石翁、木石道人, 广州治安、情报侦察、政治保卫
+- **领域**: 特种作战, 情报, 政保, 政治/人事, 广州治理, 警务
+- **路径**: E:\AI_project\lgqm_roles\元老角色蒸馏\wumu-perspective
 
 ## wunanhai-perspective
 - **角色名**: 吴南海
@@ -683,6 +718,13 @@
 - **触发词** (11): 赵丰田, 赵秘书, 老赵, 梧州市办, 解迩仁, 梧州善后, 外调函, 蔡兰, 三合嘴, 公文链路, 归化民干部
 - **领域**: 山东
 - **路径**: E:\AI_project\lgqm_roles\规划民-土著角色蒸馏\zhaofengtian-perspective
+
+## zhaohening-perspective
+- **角色名**: 赵和宁
+- **Skill 名**: zhaohening
+- **触发词** (5): 赵和宁、和宁, 初号班、归化民蚕桑干部, 九江考察、桑园围、桑基鱼塘, 涉及赵引弓义女、李幺儿徒弟, 涉及与张家玉的互动
+- **领域**: 农业, 教育
+- **路径**: E:\AI_project\lgqm_roles\规划民-土著角色蒸馏\zhaohening-perspective
 
 ## zhaomanxiong-perspective
 - **角色名**: 赵曼熊
